@@ -1,0 +1,6 @@
+/work_schedule_bot
+secrets/
+.vscode/
+.cs/
+*.yml
+*.yaml
