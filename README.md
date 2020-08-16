@@ -19,3 +19,7 @@ secrets/
 ```
 
 In provided docker file, the full path of `secrets` dir must be `/data/secrets`.
+
+## Liscence
+
+MIT

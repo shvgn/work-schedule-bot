@@ -1,3 +1,8 @@
+// The code is borrowed from Google Spreadsheet API quckstart tutorial. 
+// See https://developers.google.com/sheets/api/quickstart/go?hl=ru
+//
+// Some of the code is not used
+
 package spreadsheet
 
 import (
