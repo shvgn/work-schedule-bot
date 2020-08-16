@@ -13,6 +13,6 @@ Also, the bot expects the following secrets in files:
 
 ```
 secrets/
-├── credentials.json 	# google account credentials to access Spreadsheet API
-└── telegram_token		# text file with the token of your telegram bot
+├── credentials.json    # google account credentials to access Spreadsheet API
+└── telegram_token      # text file with the token of your telegram bot
 ```
